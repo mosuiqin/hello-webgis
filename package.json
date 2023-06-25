@@ -8,7 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.4.1",
+    "@supermap/vue-iclient-mapboxgl": "^11.1.0-beta",
+    "@turf/turf": "^6.5.0",
+    "axios": "^1.4.0",
     "core-js": "^3.6.5",
+    "echarts": "^4.9.0",
+    "jquery": "^3.7.0",
+    "mapbox-gl": "^2.15.0",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {

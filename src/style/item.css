@@ -1,0 +1,34 @@
+.item_title{
+    background-image: url('../image/image85.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #fff;
+    height: 1rem;
+    font-size: .36rem;
+    font-weight: bold;
+    line-height: .56rem;
+    text-indent: .6rem;
+}
+.status{
+        position: absolute;
+        top: 8%;
+        font-size: 0.2rem;
+        width: 18%;
+        z-index: 999;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        overflow: hidden;
+        height: 21rem ;
+        background-color: rgba(0,0,0,.2);
+        padding: .5rem;
+        border-radius: .2rem;
+}
+
+.mapboxgl-ctrl-group {
+    position: absolute;
+    top: 9rem;
+    right: 5rem;
+    height: 2rem;
+    background-color: #fff;
+  }
